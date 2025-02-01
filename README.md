@@ -5,7 +5,9 @@ We are a car dealership that offers a range of vehicle models. We require a thor
 
 ## Objective
 The objective of this project is to use Power BI to build and create an engaging and dynamic dashboard for car sales. The dashboard will show important KPIs associated with our auto sales, enabling us to make data-driven decisions and comprehend our sales success over time.
-
+### **📌 Dashboard Screenshot**  
+![car sales insights Analysis Dashboard](https://github.com/muralikrishna-v/Car-Sales-Insights-Dashboard_PowerBI/blob/main/car%20sales%20dashboard.png)  
+ 
 ## Problem Statement 1: KPI’s Requirement
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
